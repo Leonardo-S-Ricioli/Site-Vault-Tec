@@ -13,3 +13,8 @@ Como um projeto educacional, foi feito para testar a ligação entre diferentes 
 + Posicionamento de imagens conciso utilizando CSS;
 + Ligação entre diferentes páginas HTML (Vault e Bunker, contato ainda não!);
 + Oportunidade de comprar um quarto em um Bunker e se salvar do apocalipse!
+
+
+#### Para acessar este projeto: 
+
+Clique no link do Vercel App e escolha Vault.html
